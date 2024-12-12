@@ -1,4 +1,4 @@
-# Projeto de um ERP para Depósito de Gás  
+# Projeto de um ERP para Distribuidora de Gás  
 Este projeto foi desenvolvido para automatizar e otimizar a gestão de uma distribuidora de botijões de gás, proporcionando maior eficiência operacional, controle financeiro e insights detalhados sobre o desempenho do negócio.
 
 
