@@ -1,7 +1,6 @@
 # Projeto de um ERP para Depósito de Gás  
 Este projeto foi desenvolvido para automatizar e otimizar a gestão de uma distribuidora de botijões de gás, proporcionando maior eficiência operacional, controle financeiro e insights detalhados sobre o desempenho do negócio.
 
----
 
 ## Tecnologias Utilizadas  
 
@@ -14,7 +13,6 @@ Este projeto foi desenvolvido para automatizar e otimizar a gestão de uma distr
 - **Bibliotecas de JavaScript:**  
  ![Flatpickr](https://img.shields.io/badge/-Flatpickr-00C7B7?style=flat-square)  ![DataTables](https://img.shields.io/badge/-DataTables-336699?logo=datatables&logoColor=white&style=flat-square)  ![ApexCharts](https://img.shields.io/badge/-ApexCharts-FF4560?style=flat-square)  ![jQuery Mask](https://img.shields.io/badge/-jQuery%20Mask-0769AD?logo=jquery&logoColor=white&style=flat-square)  
 
----
 
 ## Funcionalidades Principais  
 
@@ -67,7 +65,6 @@ Este projeto foi desenvolvido para automatizar e otimizar a gestão de uma distr
 - Validação de dados e aplicação de regras de negócio.  
 - Segurança aprimorada e carregamento rápido das páginas.  
 
----
 
 ## Funcionalidades Técnicas  
 
@@ -81,7 +78,6 @@ Este projeto foi desenvolvido para automatizar e otimizar a gestão de uma distr
 - Conteúdo dividido em blocos carregados dinamicamente via AJAX.  
 - Utilização da Fetch API para renderização de gráficos, tabelas e relatórios em tempo real.  
 
----
 
 ## Informações do Projeto  
 
