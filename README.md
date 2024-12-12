@@ -1,50 +1,92 @@
-# Projeto de um ERP para depósito de gás.
-========
+# Projeto de um ERP para Depósito de Gás  
+Desenvolvimento de um sistema completo para gerenciamento de uma distribuidora de botijões de gás.  
 
-# Tecnologias:
+---
 
-Codeigniter4, PHP, JavaScript, AJAX, jQuery, MySQL, SQL, Bootstrap5, CSS3 e HTML5.
-Biblicotecas de JavaScript: Flatpickr, DataTables, ApexCharts e jQuery Mask.
+## Tecnologias Utilizadas  
 
-# Funcionalidades:
+- **Backend:** CodeIgniter 4, PHP, MySQL, SQL.  
+- **Frontend:** JavaScript, AJAX, jQuery, Bootstrap 5, CSS3, HTML5.  
+- **Bibliotecas de JavaScript:**  
+  - Flatpickr  
+  - DataTables  
+  - ApexCharts  
+  - jQuery Mask  
 
-### Clientes
-Controle, edição, remoção, armazenamento de dados e informações, estimativas da próxima venda, registro de vendas.
-### Fornecedores
-Controle, edição, remoção, armazenamento de dados e informações, registro de compras.
-### Usuários
-Controle, edição, remoção, armazenamento de dado, funções, visibilidade e acessos estabelecidos pela função do usuário.
-### Vendas
-Registro, manipulação, dados estatísticos completos, controle de preço de custo variável por lotes (FIFO), estimativa de vendas, incremento de lucro liquido nas contas movimento, atualização de estoque, etc.
-### Financeiro
-Registro, criação e edição de métodos de pagamentos, contas movimento, planos de conta, etc.
-### Contas a pagar
-Registro das contas, manipulação, dados estatísticos, lançamento, baixas com decremento nas contas movimento, planos de contas para a conta, etc.
-### Estoque
-Registro, manipulação, marcação, dados estatísticos.
-### Compras
-Registro, manipulação, dados estatísticos, lançamento de contas a pagar, 
-### Transações Financeiras
-Todas transações financeiras e fluxos monetários (vendas, pagamentos de despesas, transferências, retiradas, entradas) são registradas detalhadamente e por completo (totalmente rastreável e reversível).
-### D.R.E.
-Dados da Demonstração do Resultado de Exercício precisos, detalhados e relatando a saúde financeira de empresa.
-### Mais...
-Funcionalidade que se conectam e trabalham juntas para o funcionamento da aplicação, segurança, velocidade de carregamento, validação de dados e regras de negócio.
+---
 
-# Funcionalidades Técnicas:
+## Funcionalidades Principais  
 
-### Segurança
-O sistema conta com proteção CSRF e limite de requests por IP.
-Alteração de senha com deslogamento de todos dispositivos logados ao sistema na conta do usuário.
-Validação dos dados de entrada para implementar e adequar as regras de negócio e ao banco de dados.
-Acesso por login, controle da visibilidade e acesso dos usuários de acordo com sua função na aplicação.
-### Velocidade
-As páginas tem os seus conteudos divididos em blocos de conteúdo, os quais após o carregamento da página fazem solicitações AJAX ao sistema usando a JavaScript Fetch API, e após a resposta do backend apresentam as informações conforme o programado (Gráficos, dados, tabelas, etc.).
+### **Clientes**  
+- Controle, edição, remoção e armazenamento de dados.  
+- Estimativa da próxima venda.  
+- Registro e histórico de vendas.  
 
-# Informações sobre o Projeto:
+### **Fornecedores**  
+- Controle, edição, remoção e armazenamento de dados.  
+- Registro e histórico de compras.  
 
-Projeto freelance para o desenvolvimento de um sistema de gerenciamento para uma empresa distribuidora de botijões de gás.
-Atualmente o sistema está em produção e teste da sua primeira versão (v1.0.0), está gerando registros.
-O sistema permite a expansão de novas funcionalidades e campos, para adaptação, correção e updgrades futuros.
-O projeto teve um tempo estimado de 4 meses até a primeira versão entrar em teste.
-O sistema vai ganhar novas versões com melhorias e novas funcionalidades conforme a necessidade do usuário.
+### **Usuários**  
+- Gerenciamento de funções, visibilidade e acessos por hierarquia.  
+- Controle, edição e remoção de usuários.  
+
+### **Vendas**  
+- Registro detalhado de vendas.  
+- Controle de preços de custo variável por lotes (FIFO).  
+- Atualização automática de estoque.  
+- Incremento no lucro líquido das contas de movimento.  
+- Estatísticas completas e estimativas de vendas.  
+
+### **Financeiro**  
+- Gerenciamento de métodos de pagamento, contas de movimento e planos de conta.  
+
+### **Contas a Pagar**  
+- Registro e lançamento de contas.  
+- Baixas com decremento automático nas contas de movimento.  
+- Estatísticas detalhadas.  
+
+### **Estoque**  
+- Controle e registro de movimentações (FIFO).  
+- Estatísticas detalhadas e relatórios de estoque.  
+
+### **Compras**  
+- Registro e gerenciamento de compras.  
+- Integração automática com o módulo de contas a pagar.  
+- Estatísticas completas.  
+
+### **Transações Financeiras**  
+- Registro detalhado de todas as transações financeiras, como vendas, pagamentos, transferências e retiradas.  
+- Sistema totalmente rastreável e reversível.  
+
+### **Demonstração do Resultado do Exercício (D.R.E.)**  
+- Relatórios detalhados sobre a saúde financeira da empresa.  
+
+### **Outras Funcionalidades**  
+- Integração entre módulos para o funcionamento completo da aplicação.  
+- Validação de dados e aplicação de regras de negócio.  
+- Segurança aprimorada e carregamento rápido das páginas.  
+
+---
+
+## Funcionalidades Técnicas  
+
+### **Segurança**  
+- Proteção contra CSRF e limite de requisições por IP.  
+- Alteração de senha com deslogamento de todas as sessões do usuário.  
+- Controle de acesso e visibilidade com base na hierarquia do usuário.  
+- Validação de dados de entrada para conformidade com regras de negócio e banco de dados.  
+
+### **Velocidade**  
+- Conteúdo dividido em blocos carregados dinamicamente via AJAX.  
+- Utilização da Fetch API para renderização de gráficos, tabelas e relatórios em tempo real.  
+
+---
+
+## Informações do Projeto  
+
+- **Tipo de projeto:** Freelance  
+- **Descrição:** Desenvolvimento de um sistema de gerenciamento para uma distribuidora de botijões de gás.  
+- **Status atual:** Sistema em produção (v1.0.0) e em fase de testes.  
+- **Duração do desenvolvimento:** Aproximadamente 4 meses para a primeira versão.  
+- **Escalabilidade:** Estruturado para expansão e integração de novas funcionalidades e campos.  
+- **Futuro:** Atualizações e melhorias contínuas conforme as necessidades do cliente. 
