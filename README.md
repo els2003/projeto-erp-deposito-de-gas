@@ -13,8 +13,8 @@ Este projeto foi desenvolvido para automatizar e otimizar a gestão de uma distr
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)  ![AJAX](https://img.shields.io/badge/-AJAX-0078D4?logo=javascript&logoColor=white&style=flat-square)  ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat-square)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap5-7952B3?logo=bootstrap&logoColor=white&style=flat-square)  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)  
 
 - **Bibliotecas de JavaScript:**
-  
- ![Flatpickr](https://img.shields.io/badge/-Flatpickr-00C7B7?style=flat-square)  ![DataTables](https://img.shields.io/badge/-DataTables-336699?logo=datatables&logoColor=white&style=flat-square)  ![ApexCharts](https://img.shields.io/badge/-ApexCharts-FF4560?style=flat-square)  ![jQuery Mask](https://img.shields.io/badge/-jQuery%20Mask-0769AD?logo=jquery&logoColor=white&style=flat-square)  
+
+  ![Flatpickr](https://img.shields.io/badge/-Flatpickr-00C7B7?style=flat-square)  ![DataTables](https://img.shields.io/badge/-DataTables-336699?logo=datatables&logoColor=white&style=flat-square)  ![ApexCharts](https://img.shields.io/badge/-ApexCharts-FF4560?style=flat-square)  ![jQuery Mask](https://img.shields.io/badge/-jQuery%20Mask-0769AD?logo=jquery&logoColor=white&style=flat-square)  
 
 ## Vídeo Demonstrativo
 
