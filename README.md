@@ -1,5 +1,5 @@
-# Projeto de um ERP para Distribuidora de Gás  
-Este projeto foi desenvolvido para automatizar e otimizar a gestão de uma distribuidora de botijões de gás, proporcionando maior eficiência operacional, controle financeiro e insights detalhados sobre o desempenho do negócio.
+# Projeto de um ERP para Revendedora de Gás  
+Este projeto foi desenvolvido para automatizar e otimizar a gestão de uma revendedora de botijões de gás, proporcionando maior eficiência operacional, controle financeiro e insights detalhados sobre o desempenho do negócio.
 
 
 ## Tecnologias Utilizadas  
@@ -88,7 +88,7 @@ Este projeto foi desenvolvido para automatizar e otimizar a gestão de uma distr
 ## Informações do Projeto  
 
 - **Tipo de projeto:** Freelance  
-- **Descrição:** Desenvolvimento de um sistema de gerenciamento para uma distribuidora de botijões de gás.  
+- **Descrição:** Desenvolvimento de um sistema de gerenciamento para uma revendedora de botijões de gás.  
 - **Status atual:** Sistema em produção (v1.0.0) e em fase de testes.  
 - **Duração do desenvolvimento:** Aproximadamente 4 meses para a primeira versão.  
 - **Escalabilidade:** Estruturado para expansão e integração de novas funcionalidades e campos.  
